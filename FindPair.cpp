@@ -10,7 +10,6 @@ int main() {
 				++counter;
 			}
 			if (counter == 2) {
-				std::cout << "The number has pair: " << *(iterX) << std::endl;
 				break;
 			}
 		}
